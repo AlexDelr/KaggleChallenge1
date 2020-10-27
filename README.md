@@ -12,7 +12,7 @@ This looked like a dataset which showed a broad variety of data features, allowi
 
 ## How:
 Using the methods of the python pandas and matplotlib libraries we created 2 pie charts, a histogram and a scatterplot.
-There is one [datafile](https://github.com/AlexDelr/KaggleChallenge1/blob/main/countries%20of%20the%20world.csv) and one [Codefile](https://github.com/AlexDelr/KaggleChallenge1/blob/main/CountriesOfTheWorld.ipynb)
+There is one [datafile](https://github.com/AlexDelr/KaggleChallenge1/blob/main/countries%20of%20the%20world.csv) and one [Codefile](https://github.com/AlexDelr/KaggleChallenge1/blob/main/CountriesOfTheWorld.ipynb). The histogram is mostly out-of-the-box. The scatterplot required more data manipulation in order to be able to display the data.
 
 ## Who:
 This solution was prepared by Jens Coppejans and Alex Delruelle.
